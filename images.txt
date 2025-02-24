@@ -1,5 +1,5 @@
 #nginx
-jc21/nginx-proxy-manager
+#jc21/nginx-proxy-manager
 #mysql
 #unclecode/crawl4ai
 #连接一切的流程自动化工具，将各种应用程序和数据源链接起来
@@ -9,3 +9,4 @@ jc21/nginx-proxy-manager
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+gitlab/gitlab-ce
