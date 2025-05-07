@@ -1,5 +1,6 @@
-#nginx
+nginx
 chenhw2/aliyun-ddns-cli
+neilpang/acme.sh
 #jc21/nginx-proxy-manager
 #mysql
 #unclecode/crawl4ai
