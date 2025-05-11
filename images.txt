@@ -1,6 +1,6 @@
-nginx
-chenhw2/aliyun-ddns-cli
-neilpang/acme.sh
+#nginx
+#chenhw2/aliyun-ddns-cli
+#neilpang/acme.sh
 #jc21/nginx-proxy-manager
 #mysql
 #unclecode/crawl4ai
@@ -12,3 +12,4 @@ neilpang/acme.sh
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #gitlab/gitlab-ce
+jenkins/jenkins
