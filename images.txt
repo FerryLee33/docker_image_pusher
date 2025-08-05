@@ -16,4 +16,5 @@
 #foamzou/melody
 #网络教学软件
 #crosslab/edrys 
-rustdesk/rustdesk-server
+#rustdesk/rustdesk-server
+ghcr.io/automatic1111-webui/stable-diffusion-webui
