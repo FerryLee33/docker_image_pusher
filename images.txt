@@ -3,7 +3,7 @@
 #neilpang/acme.sh
 #jc21/nginx-proxy-manager
 #mysql
-unclecode/crawl4ai
+#unclecode/crawl4ai
 #连接一切的流程自动化工具，将各种应用程序和数据源链接起来
 #docker.n8n.io/n8nio/n8n
 #支持私库
@@ -18,3 +18,4 @@ unclecode/crawl4ai
 #crosslab/edrys 
 #rustdesk/rustdesk-server
 #ghcr.io/automatic1111-webui/stable-diffusion-webui
+vllm/vllm-openai
