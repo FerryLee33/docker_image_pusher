@@ -18,4 +18,5 @@
 #crosslab/edrys 
 #rustdesk/rustdesk-server
 #ghcr.io/automatic1111-webui/stable-diffusion-webui
-vllm/vllm-openai
+#vllm/vllm-openai
+xhongc/music_tag_web:latest
