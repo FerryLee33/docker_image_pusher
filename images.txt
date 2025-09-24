@@ -5,7 +5,7 @@
 #mysql
 #unclecode/crawl4ai
 #连接一切的流程自动化工具，将各种应用程序和数据源链接起来
-docker.n8n.io/n8nio/n8n
+#docker.n8n.io/n8nio/n8n
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
@@ -20,4 +20,5 @@ docker.n8n.io/n8nio/n8n
 #ghcr.io/automatic1111-webui/stable-diffusion-webui
 #vllm/vllm-openai
 #xhongc/music_tag_web:latest
-postgres:latest
+#postgres:latest
+ubuntu:latest
