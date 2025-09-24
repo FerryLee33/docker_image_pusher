@@ -19,4 +19,5 @@ docker.n8n.io/n8nio/n8n
 #rustdesk/rustdesk-server
 #ghcr.io/automatic1111-webui/stable-diffusion-webui
 #vllm/vllm-openai
-xhongc/music_tag_web:latest
+#xhongc/music_tag_web:latest
+postgres:latest
