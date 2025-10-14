@@ -11,7 +11,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#gitlab/gitlab-ce
+gitlab/gitlab-ce
 #jenkins/jenkins
 #foamzou/melody
 #网络教学软件
@@ -21,4 +21,4 @@
 #vllm/vllm-openai
 #xhongc/music_tag_web:latest
 #postgres:latest
-ubuntu:latest
+#ubuntu:latest
