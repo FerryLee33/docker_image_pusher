@@ -2,7 +2,7 @@
 #chenhw2/aliyun-ddns-cli
 #neilpang/acme.sh
 #jc21/nginx-proxy-manager
-mysql
+#mysql
 #unclecode/crawl4ai
 #连接一切的流程自动化工具，将各种应用程序和数据源链接起来
 #docker.n8n.io/n8nio/n8n
@@ -22,3 +22,4 @@ mysql
 #xhongc/music_tag_web:latest
 #postgres:latest
 #ubuntu:latest
+redis:latest
