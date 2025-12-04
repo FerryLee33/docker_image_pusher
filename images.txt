@@ -1,4 +1,4 @@
-#nginx
+nginx
 #chenhw2/aliyun-ddns-cli
 #neilpang/acme.sh
 #jc21/nginx-proxy-manager
@@ -11,8 +11,8 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-gitlab/gitlab-ce
-#jenkins/jenkins
+#gitlab/gitlab-ce
+jenkins/jenkins
 #foamzou/melody
 #网络教学软件
 #crosslab/edrys 
