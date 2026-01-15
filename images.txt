@@ -23,6 +23,6 @@
 #postgres:latest
 #ubuntu:latest
 redis:latest
-java:8
+openjdk:8
 #hoppscotch/hoppscotch
 #dpanel/dpanel:latest
