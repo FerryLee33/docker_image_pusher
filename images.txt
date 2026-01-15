@@ -23,6 +23,6 @@
 #postgres:latest
 #ubuntu:latest
 #redis:latest
-williamyeh/java8
+#williamyeh/java8
 #hoppscotch/hoppscotch
-#dpanel/dpanel:latest
+dpanel/dpanel:latest
