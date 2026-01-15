@@ -22,6 +22,7 @@
 #xhongc/music_tag_web:latest
 #postgres:latest
 #ubuntu:latest
-#redis:latest
+redis:latest
+java:8
 #hoppscotch/hoppscotch
-dpanel/dpanel:latest
+#dpanel/dpanel:latest
