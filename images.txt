@@ -25,4 +25,5 @@
 #redis:latest
 #williamyeh/java8
 #hoppscotch/hoppscotch
-dpanel/dpanel:latest
+#dpanel/dpanel:latest
+blairy/java8
