@@ -12,7 +12,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #gitlab/gitlab-ce
-#jenkins/jenkins
+jenkins/jenkins
 #foamzou/melody
 #网络教学软件
 #crosslab/edrys 
@@ -23,7 +23,6 @@
 #postgres:latest
 #ubuntu:latest
 #redis:latest
-#williamyeh/java8
 #hoppscotch/hoppscotch
 #dpanel/dpanel:latest
-blairy/java8
+#blairy/java8
