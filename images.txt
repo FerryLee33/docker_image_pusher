@@ -1,4 +1,4 @@
-nginx
+#nginx
 #chenhw2/aliyun-ddns-cli
 #neilpang/acme.sh
 #jc21/nginx-proxy-manager
@@ -26,3 +26,4 @@ nginx
 #hoppscotch/hoppscotch
 #dpanel/dpanel:latest
 #blairy/java8
+coreos/etcd:v3.5.31
